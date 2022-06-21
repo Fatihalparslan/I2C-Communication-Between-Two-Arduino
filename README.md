@@ -1,3 +1,3 @@
 # I2C-Communication-Between-Two-Arduino
+![My Image](arduinoi2c.jpg)
 
-![alt text]([http://url/to/img.png](https://github.com/Fatihalparslan/I2C-Communication-Between-Two-Arduino/blob/main/arduinoi2c.jpg))
